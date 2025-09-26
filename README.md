@@ -197,8 +197,8 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  printf("Saveetha Engineering College\n");
-	  printf("SCOFT\n");
+	  printf("SURYA.R\n");
+	  printf("212224040339\n");
 	  HAL_Delay(500);
     /* USER CODE BEGIN 3 */
   }
@@ -356,9 +356,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of Serial port utility   :
 
 
+<img width="1029" height="692" alt="image" src="https://github.com/user-attachments/assets/e6163f92-073c-4bd1-b582-870f28b27d3f" />
 
- 
- ![WhatsApp Image 2025-09-18 at 20 08 19_acad6ccf](https://github.com/user-attachments/assets/e72e1a08-4c85-42e9-a583-f3db3dd28364)
 
  
 ## Result :
